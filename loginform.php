@@ -23,9 +23,13 @@ body{
 </head>
 <body>
     
+
+
 <div class="login_form">
-    <form action="" method="">
-        
+    <form action="login.php" method="post">  
+        <input type = 'text' name = 'username'>   just type in username = awasim 
+        <input type = 'password' name = 'password'>   passoword = password
+        <button>Log In</button>
     </form>
 </div>
 
